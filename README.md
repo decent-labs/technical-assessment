@@ -24,7 +24,7 @@ We'd like to see proficiency with the following technologies, methodologies, and
     * Secrets in environment variables
   * Test suite
 * Frontend
-  * Fully client-side Javascript app
+  * Fully client-side React app
   * Informative `README` to get a new developer up and running
   * Test suite
   * Usage of layout system (e.g. Bootstrap, Material, Foundation)
@@ -41,7 +41,7 @@ Please build a "To Do" app. This To Do app should consist of:
   * CRUD To Do functionality
   * Build with NodeJS, Golang, or other server-side language of your choice
 * Frontend
-  * Client side Javascript frontend which interacts with API
+  * Client side React frontend which interacts with API
   * A "clean" design
     * Looking for functionality over form, but if you can slap a good design on this, that's great :)
     * At the very least, use an existing layout system (Bootstrap, Material, Foundation, etc) to make it not-totally-ugly.

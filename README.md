@@ -21,13 +21,15 @@ We'd like to see proficiency with the following technologies, methodologies, and
 * Backend
   * API structure
   * Informative `README` to get a new developer up and running
-    * Secrets in environment variables
   * Test suite
 * Frontend
-  * Fully client-side React app
+  * Fully client-side Javascript app, strongly recommend using a framework like React (or Gastby)
   * Informative `README` to get a new developer up and running
   * Test suite
   * Usage of layout system (e.g. Bootstrap, Material, Foundation)
+
+
+Ideally, you are familiar with the concepts of a [12 Factor App](https://12factor.net/), and can implement the project using those methodologies.
 
 ## Project Details
 
@@ -56,9 +58,9 @@ Please build a "To Do" app. This To Do app should consist of:
   * Nice to have:
     * Different "categories", or "lists", each consisting of their own set of To Dos
 
-It's not necessary that any of this is hosted anywhere. However, there should be easy-to-follow instructions to allow a developer (like us at Decent) to get up and running with this solution on our own development machines.
+It's not necessary that any of this is hosted anywhere. However, there should be easy-to-follow instructions to allow a developer (like us at Decent) to get up and running with this solution on their own development machines.
 
-It's completely appropriate that this solution consists of multiple git repositories, which contain the different projects (backend vs. frontend).
+It's completely appropriate that this solution consists of multiple git repositories, which contain the different projects (backend & frontend).
 
 Please direct and questions or concerns to Adam <adam@decentcrypto.com>
 

@@ -1,4 +1,4 @@
-# Technicals Test
+# Technical Assessment
 
 The purpose of this repository is to describe a system which should be implemented, in order for decent to gain a greater understanding of the technical capabilities of the applicant.
 
